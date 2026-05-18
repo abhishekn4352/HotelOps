@@ -512,7 +512,7 @@ export default function Dashboard() {
               <div className="mt-2">
                 <h3 className="text-lg font-bold text-emerald-400">All Steps Completed Successfully!</h3>
                 <p className="text-sm text-slate-300 mt-1">
-                  You completed the entire real-time orchestration story: guest checkout -> housekeeping -> AC issue -> AI prediction -> delay alert -> lobby overdue -> emergency -> towels request -> inventory low stock -> maintenance resolve -> room ready -> check-in.
+                  You completed the entire real-time orchestration story: guest checkout &rarr; housekeeping &rarr; AC issue &rarr; AI prediction &rarr; delay alert &rarr; lobby overdue &rarr; emergency &rarr; towels request &rarr; inventory low stock &rarr; maintenance resolve &rarr; room ready &rarr; check-in.
                 </p>
               </div>
             )}
