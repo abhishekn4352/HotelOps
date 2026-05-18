@@ -4,7 +4,9 @@
   "description": "HotelOps is a modern, real-time hotel operations management system designed to coordinate Front Desk, Housekeeping, Maintenance, Guest Services, Inventory, and Administrative operations in a single scalable platform.",
   "main": "index.js",
   "scripts": {
-    "dev": "vite", "build": "vite build", "preview": "vite preview"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
@@ -29,6 +31,7 @@
     "zustand": "^5.0.13"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.3.0",
     "@vitejs/plugin-react": "^6.0.2",
     "autoprefixer": "^10.5.0",
     "clsx": "^2.1.1",
